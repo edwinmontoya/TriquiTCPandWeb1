@@ -2,6 +2,6 @@ proyecto TriquiTCPandWeb1
 
 Edwin Montoya 
 Universidad EAFIT
-Materia: Topicos Especiales en Telemática
+Materia: ST0263 Topicos Especiales en Telemática
 2016
 
